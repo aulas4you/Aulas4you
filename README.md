@@ -18,29 +18,20 @@ Here are some ideas to get you started:
 
 
 <html>
-  
-  <body>
-		
-		<div id="info">
-			<p><strong>Matrix code rain</strong></p> 
-			<p>Experiment write up <a href="http://neilcarpenter.com/labs/matrix-rain" target="_blank">here</a>.</p>
-      
-      <!--
-      this doesn't work in CodePen for some reason
-			<button id="snapshot">Take snapshot</button>
-      -->			
+        
 
-			<a href="#" class="toggle-info" id="open">Show info</a>
-			<a href="#" class="toggle-info" id="close">Hide info</a>			
-		</div>
-		
-		<canvas id="canvas"></canvas>
-		
-	</body>
   
   <a align="center" alt="aulas4you" href="www.youtbe.com/c/aulas4you" id="ribbon" target="_blank"><img align="center" alt="aulas4you" height="30" width="40" style="position: absolute; top: 0; right: 0; border: 0; z-index: 50;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="aulas4you">
 	
 <img align="center" alt="aulas4you" height="30" width="40" style="position: absolute; top: 0; right: 1; border: 0; z-index: 50;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="aulas4you">
+
+
+    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
+
+     <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;">
+
+	<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
+
 	</a>
 	
 	
