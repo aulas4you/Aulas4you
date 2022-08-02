@@ -1,19 +1,19 @@
 ### Hi there 👋
 
-<!--
+
 **aulas4you/Aulas4you** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on developer tools for digital marketing
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 
@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 		
 	</body>
   
-  <a href="https://github.com/neilcarpenter/Matrix-code-rain" id="ribbon" target="_blank"><img style="position: absolute; top: 0; right: 0; border: 0; z-index: 50;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" id="ribbon" target="_blank"><img style="position: absolute; top: 0; right: 0; border: 0; z-index: 50;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
 	
 </html>
