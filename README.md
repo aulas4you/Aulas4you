@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 		
 	</body>
   
-  <a align="center" alt="Rafa-Js" height="30" width="40"  href="www.youtbe.com/c/aulas4you" id="ribbon" target="_blank"><img style="position: absolute; top: 0; right: 0; border: 0; z-index: 50;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Fork me on GitHub"></a>
+  <a align="center" alt="Rafa-Js" height="30" width="40"  href="www.youtbe.com/c/aulas4you" id="ribbon" target="_blank"><img align="center" alt="Rafa-Js" height="30" width="40" style="position: absolute; top: 0; right: 0; border: 0; z-index: 50;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Fork me on GitHub"></a>
 	
 </html>
